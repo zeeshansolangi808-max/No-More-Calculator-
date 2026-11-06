@@ -1,0 +1,9 @@
+{
+  "name": "No More Calculator",
+  "short_name": "No More Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090611",
+  "theme_color": "#090611",
+  "description": "A stylish calculator with themes, history and unit conversion."
+}
